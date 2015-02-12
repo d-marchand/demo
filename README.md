@@ -10,7 +10,7 @@ Studies are splitted into three domains :
 - Windows Portable-apps running with Wine emulator.
 
 ### GUI containers (with Firefox)
-:checkered_flag: [x11shared sudoers](summary.md "x11shared") 
+:checkered_flag: [X11shared sudoers](summary.md "X11shared") 
 
 :checkered_flag: [SSH root](summary.md "SSH") 
 
@@ -19,11 +19,11 @@ Studies are splitted into three domains :
 :checkered_flag: [VNC (with xvfb & wine)](summary.md "VNC") 
 
 ### Mono environment
-:checkered_flag: [Mono official but not mono-complete (x11shared sudoers)](summary.md "x11shared") 
+:checkered_flag: [Mono official but not mono-complete (x11shared sudoers)](summary.md "X11shared") 
 
 :checkered_flag: [Mono-complete install (SSH user)](summary.md "SSH")
 
-### Multiples Windows Portable-apps
+### Multiple Windows Portable-apps
 :checkered_flag: [Windows Portable-apps samples (VNC)](summary.md "VNC") 
 
 :checkered_flag: [Windows Portable-apps samples (SSH root)](summary.md "SSH")
@@ -40,4 +40,4 @@ Studies are splitted into three domains :
 :checkered_flag: [Windows Portable-apps WinMerge (SSH root)](summary.md "SSH") 
 
 ##Usage
-[license](LICENSE "License")
+[License](LICENSE "License")
