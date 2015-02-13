@@ -2,13 +2,16 @@
 Test Git and remote download training
 ## Test git from remote access
 Aim to download clone repository
+
 ##Studies
-The goal of this approach is to provide Docker containers dedicated to facilitate Windows/Linux cross-over usage. 
+The goal of this approach is to provide Docker containers dedicated to facilitate Windows/Linux cross-over usage.
+
 Studies are splitted into three domains : 
 - Diversity of methods to produce GUI containers to access to Firefox.
-- Mono environment to use Console or Gtk applications.
+- Mono environment to make possible to run Console or Gtk applications.
 - Windows Portable-apps running with Wine emulator.
-
+ 
+Experiment by yourself all approaches studies with the links below.
 ### Firefox (Method differences for GUI containers)
 :checkered_flag: [X11shared (sudoers)](https://github.com/d-marchand/term_x11shared_sudoers_firefox/ "X11shared") 
 
