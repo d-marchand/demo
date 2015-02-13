@@ -46,7 +46,7 @@ Windows Portable-apps samples easy to install and use.
 
 Windows Portable-apps samples dedicated easy to install and use.
 
-:checkered_flag: [ntRenamer Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_antrenamer/ "SSH") 
+:checkered_flag: [AntRenamer Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_antrenamer/ "SSH") 
 
 :checkered_flag: [FreeCommander Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_freecommander/ "SSH")  
 
