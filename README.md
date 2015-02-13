@@ -22,9 +22,9 @@ Last version of Firefox ready to use.
 
 :checkered_flag: [VNC (root with xvfb & wine)](https://github.com/d-marchand/vncxvfb_wine_firefox/ "VNC") with VNC protocol but not crypted... 
 
-:checkered_flag: [SSH root](https://github.com/d-marchand/term_ssh_root_firefox/ "SSH") 
+:checkered_flag: [SSH (root)](https://github.com/d-marchand/term_ssh_root_firefox/ "SSH") 
 
-:checkered_flag: [SSH user](https://github.com/d-marchand/term_ssh_user_firefox/ "SSH") 
+:checkered_flag: [SSH (non root user)](https://github.com/d-marchand/term_ssh_user_firefox/ "SSH") 
 
 ### Mono Environment
 
