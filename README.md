@@ -3,7 +3,7 @@ Test Git and remote download training
 ## Test git from remote access
 Aim to download clone repository
 
-##Studies
+##Docker Containers Studies
 
 The goal of this approach is to provide Docker containers dedicated to facilitate Windows/Linux cross-over usage.
 
@@ -12,7 +12,7 @@ Studies are splitted into three domains :
 - Mono environment to make possible to run Console or Gtk applications.
 - Windows Portable-apps (global and dedicated) running with Wine emulator.
  
-Experiment by yourself all approaches studies with the links below.
+Experiment by yourself all approaches studies with the links below for Docker containers.
 
 ### Firefox (Method differences for GUI containers)
 
