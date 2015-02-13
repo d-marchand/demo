@@ -10,7 +10,7 @@ The goal of this approach is to provide Docker containers dedicated to facilitat
 Studies are splitted into three domains : 
 - Diversity of methods to produce GUI containers to access to Firefox.
 - Mono environment to make possible to run Console or Gtk applications.
-- Windows Portable-apps (global and dedicated) running with Wine emulator.
+- Windows Portable-apps (global or dedicated) running with Wine emulator.
  
 Experiment by yourself all approaches studies with the links below for Docker containers.
 
@@ -26,7 +26,7 @@ Last version of Firefox ready to use.
 
 :checkered_flag: [SSH user](https://github.com/d-marchand/term_ssh_user_firefox/ "SSH") 
 
-### Mono environment
+### Mono Environment
 
 Last version of Mono environment ready to be exploited.
 
