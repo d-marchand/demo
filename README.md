@@ -18,9 +18,9 @@ Experiment by yourself all approaches studies with the links below for Docker co
 
 Last version of Firefox ready to use.
 
-:checkered_flag: [X11shared (sudoers)](https://github.com/d-marchand/term_x11shared_sudoers_firefox/ "X11shared") 
+:checkered_flag: [X11shared (sudoers)](https://github.com/d-marchand/term_x11shared_sudoers_firefox/ "X11shared") but dangerous access permissions... 
 
-:checkered_flag: [VNC (root with xvfb & wine)](https://github.com/d-marchand/vncxvfb_wine_firefox/ "VNC") 
+:checkered_flag: [VNC (root with xvfb & wine)](https://github.com/d-marchand/vncxvfb_wine_firefox/ "VNC") with VNC protocol but not crypted... 
 
 :checkered_flag: [SSH root](https://github.com/d-marchand/term_ssh_root_firefox/ "SSH") 
 
@@ -30,7 +30,7 @@ Last version of Firefox ready to use.
 
 Last version of Mono environment ready to be exploited.
 
-:checkered_flag: [Mono official but not mono-complete (SSH root)](https://github.com/d-marchand/term_ssh_root_mono/ "SSH") 
+:checkered_flag: [Mono Docker official (SSH root)](https://github.com/d-marchand/term_ssh_root_mono/ "SSH") but not mono-complete. 
 
 :checkered_flag: [Mono-complete install (SSH user)](https://github.com/d-marchand/term_ssh_user_monodotnet45/ "SSH")
 
