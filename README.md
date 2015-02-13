@@ -36,7 +36,7 @@ Last version of Mono environment ready to be exploited.
 
 ### Multiple Windows Portable-apps
 
-Windows Portable-apps samples easy to install and use.
+Windows Portable-apps samples easy to install, update and use.
 
 :checkered_flag: [Windows Portable-apps samples (VNC)](https://github.com/d-marchand/vncxvfb_wine_portable-apps_samples/ "VNC") 
 
@@ -44,7 +44,7 @@ Windows Portable-apps samples easy to install and use.
 
 ### Specific Windows Portable-apps
 
-Windows Portable-apps samples dedicated easy to install and use.
+Windows Portable-apps samples dedicated easy to install, update and use.
 
 :checkered_flag: [AntRenamer Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_antrenamer/ "SSH") 
 
