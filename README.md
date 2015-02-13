@@ -14,9 +14,9 @@ Studies are splitted into three domains :
  
 Experiment by yourself all approaches studies with the links below for Docker containers.
 
-### Firefox (Method differences for GUI containers)
+### Mozilla Firefox (Method differences for GUI containers)
 
-Last version of Firefox ready to use.
+Last version of Mozilla Firefox ready to use.
 
 :checkered_flag: [X11shared (sudoers)](https://github.com/d-marchand/term_x11shared_sudoers_firefox/ "X11shared") but dangerous access permissions... 
 
@@ -30,9 +30,9 @@ Last version of Firefox ready to use.
 
 Last version of Mono environment ready to be exploited.
 
-:checkered_flag: [Mono Docker official (SSH root)](https://github.com/d-marchand/term_ssh_root_mono/ "SSH") but not mono-complete. 
+:checkered_flag: [Mono Docker official (SSH root)](https://github.com/d-marchand/term_ssh_root_mono/ "SSH") Docker official version but not mono-complete. 
 
-:checkered_flag: [Mono-complete install (SSH user)](https://github.com/d-marchand/term_ssh_user_monodotnet45/ "SSH")
+:checkered_flag: [Xamarin:copyright: Mono-complete install (SSH user)](https://github.com/d-marchand/term_ssh_user_monodotnet45/ "SSH")
 
 ### Multiple Windows Portable-apps
 
@@ -46,15 +46,15 @@ Windows Portable-apps samples easy to install, update and use.
 
 Windows Portable-apps samples dedicated easy to install, update and use.
 
-:checkered_flag: [AntRenamer Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_antrenamer/ "SSH") 
+:checkered_flag: [Antp.be:copyright: AntRenamer Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_antrenamer/ "SSH") 
 
-:checkered_flag: [FreeCommander Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_freecommander/ "SSH")  
+:checkered_flag: [Marek Jasinski:copyright: FreeCommander Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_freecommander/ "SSH")  
 
-:checkered_flag: [Notepad++ Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_notepadplusplus/ "SSH") 
+:checkered_flag: [Notepad++Team:copyright: Notepad++ Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_notepadplusplus/ "SSH") 
 
-:checkered_flag: [ToDoList Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_todolist/ "SSH") 
+:checkered_flag: [AbstractSpoon:copyright: ToDoList Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_todolist/ "SSH") 
 
-:checkered_flag: [WinMerge Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_winmerge/ "SSH") 
+:checkered_flag: [Grimm-Thingamahoochie software:copyright: WinMerge Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_winmerge/ "SSH") 
 
 ##Usage
 
