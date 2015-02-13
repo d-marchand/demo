@@ -34,6 +34,8 @@ Last version of Mono environment ready to be exploited for Mono app.
 
 :checkered_flag: [Xamarin:copyright: Mono-complete install (SSH user)](https://github.com/d-marchand/term_ssh_user_monodotnet45/ "SSH")
 
+Last version of Mono environment IDE ready to use.
+
 :soon: [Xamarin:copyright: MonoDevelop IDE (SSH user)] TODO...
 
 ### Multiple Windows Portable-apps
