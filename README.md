@@ -16,6 +16,8 @@ Experiment by yourself all approaches studies with the links below.
 
 ### Firefox (Method differences for GUI containers)
 
+Last version of Firefox ready to use.
+
 :checkered_flag: [X11shared (sudoers)](https://github.com/d-marchand/term_x11shared_sudoers_firefox/ "X11shared") 
 
 :checkered_flag: [VNC (root with xvfb & wine)](https://github.com/d-marchand/vncxvfb_wine_firefox/ "VNC") 
@@ -26,11 +28,15 @@ Experiment by yourself all approaches studies with the links below.
 
 ### Mono environment
 
+Last version of Mono environment ready to be exploited.
+
 :checkered_flag: [Mono official but not mono-complete (SSH root)](https://github.com/d-marchand/term_ssh_root_mono/ "SSH") 
 
 :checkered_flag: [Mono-complete install (SSH user)](https://github.com/d-marchand/term_ssh_user_monodotnet45/ "SSH")
 
 ### Multiple Windows Portable-apps
+
+Windows Portable-apps samples easy to install and use.
 
 :checkered_flag: [Windows Portable-apps samples (VNC)](https://github.com/d-marchand/vncxvfb_wine_portable-apps_samples/ "VNC") 
 
@@ -38,15 +44,16 @@ Experiment by yourself all approaches studies with the links below.
 
 ### Specific Windows Portable-apps
 
-:checkered_flag: [Windows Portable-apps AntRenamer (SSH root)](https://github.com/d-marchand/term_ssh_root_antrenamer/ "SSH") 
+Windows Portable-apps samples dedicated easy to install and use.
 
-:checkered_flag: [Windows Portable-apps FreeCommander (SSH root)](https://github.com/d-marchand/term_ssh_root_freecommander/ "SSH") 
+:checkered_flag: [ntRenamer Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_antrenamer/ "SSH") 
 
-:checkered_flag: [Windows Portable-apps Notepad++ (SSH root)](https://github.com/d-marchand/term_ssh_root_notepadplusplus/ "SSH") 
+:checkered_flag: [FreeCommander Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_freecommander/ "SSH") 
+:checkered_flag: [Notepad++ Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_notepadplusplus/ "SSH") 
 
-:checkered_flag: [Windows Portable-apps ToDoList (SSH root)](https://github.com/d-marchand/term_ssh_root_todolist/ "SSH") 
+:checkered_flag: [ToDoList Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_todolist/ "SSH") 
 
-:checkered_flag: [Windows Portable-apps WinMerge (SSH root)](https://github.com/d-marchand/term_ssh_root_winmerge/ "SSH") 
+:checkered_flag: [WinMerge Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_winmerge/ "SSH") 
 
 ##Usage
 
