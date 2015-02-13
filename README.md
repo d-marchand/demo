@@ -10,7 +10,7 @@ Studies are splitted into three domains :
 - Windows Portable-apps running with Wine emulator.
 
 ### GUI containers (with Firefox)
-:checkered_flag: [X11shared sudoers](summary.md "X11shared") 
+:checkered_flag: [X11shared sudoers](https://github.com/d-marchand/mono/term_x11shared_sudoers_firefox/ "X11shared") 
 
 :checkered_flag: [SSH root](summary.md "SSH") 
 
@@ -19,7 +19,7 @@ Studies are splitted into three domains :
 :checkered_flag: [VNC (with xvfb & wine)](summary.md "VNC") 
 
 ### Mono environment
-:checkered_flag: [Mono official but not mono-complete (x11shared sudoers)](summary.md "X11shared") 
+:checkered_flag: [Mono official but not mono-complete (SSH root)](https://github.com/d-marchand/mono/ "SSH") 
 
 :checkered_flag: [Mono-complete install (SSH user)](summary.md "SSH")
 
