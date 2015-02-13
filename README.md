@@ -28,11 +28,13 @@ Last version of Mozilla Firefox ready to use.
 
 ### Mono Environment
 
-Last version of Mono environment ready to be exploited.
+Last version of Mono environment ready to be exploited for Mono app.
 
-:checkered_flag: [Mono Docker official (SSH root)](https://github.com/d-marchand/term_ssh_root_mono/ "SSH") Docker official version but not mono-complete. 
+:checkered_flag: [Mono Docker official (SSH root)](https://github.com/d-marchand/term_ssh_root_mono/ "SSH") A Docker official version but not mono-complete. 
 
 :checkered_flag: [Xamarin:copyright: Mono-complete install (SSH user)](https://github.com/d-marchand/term_ssh_user_monodotnet45/ "SSH")
+
+:checkered_flag: [Xamarin:copyright: MonoDevelop IDE (SSH user)] TODO...
 
 ### Multiple Windows Portable-apps
 
@@ -54,7 +56,7 @@ Windows Portable-apps samples dedicated easy to install, update and use.
 
 :checkered_flag: [AbstractSpoon:copyright: ToDoList Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_todolist/ "SSH") 
 
-:checkered_flag: [Grimm-Thingamahoochie software:copyright: WinMerge Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_winmerge/ "SSH") 
+:checkered_flag: [Grimm-Thingamahoochie Software:copyright: WinMerge Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_winmerge/ "SSH") 
 
 ##Usage
 
