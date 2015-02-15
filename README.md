@@ -26,6 +26,8 @@ Last version of Mozilla Firefox ready to use.
 
 :checkered_flag: [SSH (non root user)](https://github.com/d-marchand/term_ssh_user_firefox/ "SSH") 
 
+![Graph1](graph1.gif)
+
 ### Mono Environment
 
 Last version of Mono environment ready to be exploited for Mono app.
@@ -38,6 +40,8 @@ Last version of Mono environment IDE ready to use.
 
 :soon: [Xamarin:copyright: MonoDevelop IDE (SSH user)] TODO...
 
+![Graph2](graph2.gif)
+
 ### Multiple Windows Portable-apps
 
 Windows Portable-apps samples easy to install, update and use.
@@ -45,6 +49,8 @@ Windows Portable-apps samples easy to install, update and use.
 :checkered_flag: [Windows Portable-apps samples (VNC)](https://github.com/d-marchand/vncxvfb_wine_portable-apps_samples/ "VNC") 
 
 :checkered_flag: [Windows Portable-apps samples (SSH root)](https://github.com/d-marchand/term_ssh_root_portable-apps_samples/ "SSH")
+
+![Graph3](graph3.gif)
 
 ### Specific Windows Portable-apps
 
@@ -59,6 +65,8 @@ Windows Portable-apps samples dedicated easy to install, update and use.
 :checkered_flag: [AbstractSpoon:copyright: ToDoList Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_todolist/ "SSH") 
 
 :checkered_flag: [Grimm-Thingamahoochie Software:copyright: WinMerge Portable (SSH root)](https://github.com/d-marchand/term_ssh_root_winmerge/ "SSH") 
+
+![Graph4](graph4.gif)
 
 ##Usage
 
